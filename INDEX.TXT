@@ -1,0 +1,4 @@
+<center> :- Content put in center
+
+<pre> :- It's use to write output exact same sentence 
+
